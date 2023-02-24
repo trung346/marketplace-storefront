@@ -1,11 +1,22 @@
 {
-  "collections": [
-    "7Vv68CarFpqn291aTeeUz65Uxk1tp8X7gfR8CDMZo2gw"
-  ],
-  "xApiKey": "mw_RRetgcSVAXj6OpssSBj0t0PXbqsahlbnDaJ",
+  // Array of collection addresses
+  "collections": ["AHmRSZRKkmezJitBmqcdQmSmJhvUHpSVjhdSaEMntc6s"],
+
+  // API Key
+  "xApiKey": "mw_qnjRy2nORvORC5a6dupTzaK4G1tZ2zE7ER7",
+
+  // Marketplace commission fee in percentage
   "serviceFee": 4.25,
+
+  // Marketplace storefront currency
   "currencyOption": "SOL",
-  "name": "Mirror Jump",
+
+  // Storefront name
+  "name": "Mirrors New Colection",
+
+  // Storefront Logo URL
   "logo": "",
-  "network": "testnet"
+
+  // Storefront Network
+  "network": "mainnet"
 }
